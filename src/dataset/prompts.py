@@ -40,7 +40,7 @@ INSTRUCTIONS:
     INPUT MEDICAL CASE REPORT: input_____
     Here are the extracted entities from the given MEDICAL CASE REPORT:""",
     
-    "MEDICAL_DEFINITIONS": '''prompts_dict = {"MEDICAL": """YOU ARE A MEDICAL PROFESSIONAL UNDERSTANDING ALL NUANCES OF CASE REPORTS
+    "MEDICAL_DEFINITIONS": '''YOU ARE A MEDICAL PROFESSIONAL UNDERSTANDING ALL NUANCES OF CASE REPORTS
 Your job is to extract Named Entities, specific in MEDICAL DOMAIN. I will provide you list of the entities you need to extract, the MEDICAL CASE REPORT from where your extract the entities and the OUTPUT FORMAT.
 
 INSTRUCTIONS:
