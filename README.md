@@ -1,4 +1,4 @@
- # AutoNER-Lite
+# AutoNER-Lite
 AutoNER-Lite is an end to end, lightweight Named Entity Recognition (NER) system designed to efficiently train domain-specific entities with clear distinction and accuracy without human annotation. The system is optimized for minimal data requirements and reduced latency during training and inference.
 
 AutoNER-Lite addresses three critical areas within the NER landscape to enhance the accuracy, scalability, and data efficiency of entity recognition:
@@ -97,4 +97,4 @@ For any inquiries or assistance, please contact Neha Tamore at nehatamore87@gmai
 
 ## Example
 The following is the output of NER system trained on medical case reports, without any postprocessing of token-labels.
-![Medical NER](./medical_ner.png "NER")
+![Medical NER](images/medical_ner.png "NER")
